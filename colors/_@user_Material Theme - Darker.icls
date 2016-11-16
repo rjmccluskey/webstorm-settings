@@ -3,7 +3,7 @@
     <property name="created">2016-11-15T21:30:01</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2016-11-15T21:47:29</property>
+    <property name="modified">2016-11-15T22:20:43</property>
     <property name="originalScheme">Material Theme - Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -637,7 +637,7 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="722c40" />
+        <option name="EFFECT_COLOR" value="ac3f66" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -736,7 +736,7 @@
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="353535" />
-        <option name="ERROR_STRIPE_COLOR" value="4f4f4f" />
+        <option name="ERROR_STRIPE_COLOR" value="e2e2e2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -755,7 +755,7 @@
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="d9b2d5" />
-        <option name="ERROR_STRIPE_COLOR" value="aeae80" />
+        <option name="ERROR_STRIPE_COLOR" value="d9b2d5" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -1632,6 +1632,7 @@
       <value>
         <option name="FOREGROUND" value="1e3445" />
         <option name="BACKGROUND" value="f8e71c" />
+        <option name="ERROR_STRIPE_COLOR" value="5cf837" />
       </value>
     </option>
     <option name="SQL_KEYWORD">
@@ -1708,12 +1709,14 @@
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="f8e71c" />
+        <option name="ERROR_STRIPE_COLOR" value="5cf837" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffeb95" />
         <option name="FONT_TYPE" value="2" />
+        <option name="ERROR_STRIPE_COLOR" value="25a8e3" />
       </value>
     </option>
     <option name="TYPEDEF">
@@ -1728,8 +1731,8 @@
     </option>
     <option name="TYPO">
       <value>
-        <option name="EFFECT_COLOR" value="ffeb95" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="998951" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
@@ -1767,6 +1770,7 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
+        <option name="EFFECT_COLOR" value="8c8c00" />
         <option name="ERROR_STRIPE_COLOR" value="8c8c00" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -1774,14 +1778,14 @@
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="353535" />
-        <option name="ERROR_STRIPE_COLOR" value="4f4f4f" />
+        <option name="ERROR_STRIPE_COLOR" value="e2e2e2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="202431" />
-        <option name="ERROR_STRIPE_COLOR" value="c55450" />
+        <option name="ERROR_STRIPE_COLOR" value="5cf837" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
