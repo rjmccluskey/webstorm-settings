@@ -1,0 +1,10 @@
+<templateSet group="Angular2">
+  <template name="ng2-component" value="import { Component } from '@angular/core';&#10;&#10;@Component({&#10;  moduleId: module.id,&#10;  selector: '$SELECTOR$',&#10;  templateUrl: '$NAME$.component.html'&#10;})&#10;export class $COMPONENT_NAME$Component {&#10;  $END$&#10;}" description="Angular2 component" toReformat="false" toShortenFQNames="true">
+    <variable name="SELECTOR" expression="" defaultValue="&quot;selector&quot;" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
+    <variable name="COMPONENT_NAME" expression="capitalize(String)" defaultValue="&quot;ComponentName&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
