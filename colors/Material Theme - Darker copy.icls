@@ -1,10 +1,10 @@
-<scheme name="_@user_Material Theme - Darker" version="142" parent_scheme="Default">
+<scheme name="Material Theme - Darker copy" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2016-11-15T21:30:01</property>
+    <property name="created">2016-12-04T20:04:27</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2016.3.0.0</property>
+    <property name="ideVersion">2016.3.1.0.0</property>
     <property name="modified">2016-12-04T20:05:41</property>
-    <property name="originalScheme">Material Theme - Darker</property>
+    <property name="originalScheme">_@user_Material Theme - Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <font>
@@ -18,7 +18,7 @@
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="444444" />
+    <option name="ADDED_LINES_COLOR" value="447152" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="ffcc00" />
@@ -50,7 +50,7 @@
     <option name="INDENT_GUIDE" value="" />
     <option name="LINE_NUMBERS_COLOR" value="353535" />
     <option name="METHOD_SEPARATORS_COLOR" value="303030" />
-    <option name="MODIFIED_LINES_COLOR" value="d9f5dd" />
+    <option name="MODIFIED_LINES_COLOR" value="43698d" />
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
