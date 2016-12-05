@@ -3,7 +3,7 @@
     <property name="created">2016-12-04T20:04:27</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.3.1.0.0</property>
-    <property name="modified">2016-12-04T20:15:26</property>
+    <property name="modified">2016-12-04T20:41:27</property>
     <property name="originalScheme">_@user_Material Theme - Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -62,7 +62,7 @@
     <option name="SOFT_WRAP_SIGN_COLOR" value="3b3b3b" />
     <option name="TEARLINE_COLOR" value="303030" />
     <option name="WHITESPACES" value="303030" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="d9f5dd" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="808080" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
