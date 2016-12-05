@@ -3,7 +3,7 @@
     <property name="created">2016-12-04T20:04:27</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.3.1.0.0</property>
-    <property name="modified">2016-12-04T20:41:27</property>
+    <property name="modified">2016-12-04T23:12:29</property>
     <property name="originalScheme">_@user_Material Theme - Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -57,7 +57,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="303030" />
     <option name="SELECTED_INDENT_GUIDE" value="505050" />
     <option name="SELECTED_TEARLINE_COLOR" value="d9f5dd" />
-    <option name="SELECTION_BACKGROUND" value="2e2e2e" />
+    <option name="SELECTION_BACKGROUND" value="364a4d" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="3b3b3b" />
     <option name="TEARLINE_COLOR" value="303030" />
