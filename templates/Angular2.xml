@@ -7,4 +7,10 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="ng2-service" value="import { Injectable } from '@angular/core';&#10;&#10;@Injectable()&#10;export class $SERVICE_NAME$Service {&#10;  $END$&#10;}" description="Angular2 service" toReformat="false" toShortenFQNames="true">
+    <variable name="SERVICE_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
