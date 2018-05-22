@@ -3,10 +3,8 @@
     <variable name="SELECTOR" expression="" defaultValue="&quot;selector&quot;" alwaysStopAt="true" />
     <variable name="NAME" expression="" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
     <variable name="COMPONENT_NAME" expression="capitalize(String)" defaultValue="&quot;ComponentName&quot;" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="ng2-service" value="import { Injectable } from '@angular/core';&#10;&#10;@Injectable()&#10;export class $SERVICE_NAME$Service {&#10;  $END$&#10;}" description="Angular2 service" toReformat="false" toShortenFQNames="true">
     <variable name="SERVICE_NAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
 </templateSet>
